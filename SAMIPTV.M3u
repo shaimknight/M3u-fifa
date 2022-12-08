@@ -67,6 +67,11 @@ http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809357&ext
 #EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 6 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809359&extension=ts
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT" tvg-logo="" group-title="COPA MUNDIAL FIFA",DIRECTTV SPORT
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030716
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 1" tvg-logo="" group-title="COPA MUNDIAL FIFA",DIRECTTV SPORT 1
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030717
+#EXTINF:-1 tvg-id="" tvg-name="Hub - FIFA 1" tvg-logo="" group-title="COPA MUNDIAL FIFA",Hub - FIFA 1
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1178991
+#EXTINF:-1 tvg-id="" tvg-name="Hub - FIFA 2" tvg-logo="" group-title="COPA MUNDIAL FIFA",Hub - FIFA 2
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1178992
