@@ -1,0 +1,72 @@
+# M3u-fifa
+#EXTM3U
+
+####WorldCup22####
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 01
+http://iptv12k.com:35461/80203091402/213445/14402
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 02
+http://iptv12k.com:35461/80203091402/213445/14403
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 03
+http://iptv12k.com:35461/80203091402/213445/14405
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 04
+http://iptv12k.com:35461/80203091402/213445/14404
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 05
+http://iptv12k.com:35461/80203091402/213445/14407
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 06
+http://iptv12k.com:35461/80203091402/213445/14406
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup", World Cup Channel 07
+http://iptv12k.com:35461/80203091402/213445/14401
+
+#EXTINF:-1 group-title="FIFA Qatar World Cup",  World Cup Channel 08
+http://iptv12k.com:35461/80203091402/213445/14398
+
+#EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p-paid
+
+#EXTINF:-1 group-title="Toffee FREE {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee FREE (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p
+
+#EXTINF:-1 group-title="Toffee PAID 2 {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID 2 (720p)
+https://sabbirhasan.pythonanywhere.com/worldcup/720p-server2-paid
+
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Sports 18 (1080p)
+http://eu.majes-line.co/play/live.php?mac=00:1A:79:c1:f9:5c&stream=811763&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",ITV1 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=805277&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Servus TV (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=805289&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807993&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 1 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807990&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 2 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807987&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 2 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807986&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 3 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807983&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 3 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807982&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 4 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807979&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 4 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807978&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 5 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809361&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 5 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809363&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 6 (1080p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809357&extension=ts
+#EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 6 (720p)
+http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809359&extension=ts
+
+
+
+
