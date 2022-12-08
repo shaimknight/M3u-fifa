@@ -103,3 +103,7 @@ http://bestsave.ltd:80/live/995511/115599/216380.ts
 http://iptv12k.com:35461/80203091402/213445/14407
 #EXTINF:-1  tvg-name="WC 2" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="" ,TSN
 http://iptv12k.com:35461/80203091402/213445/10812
+#EXTINF:-1,beIN SPORTS MAX 1 HD
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170477
+#EXTINF:-1,beIN SPORTS MAX 2 HD
+http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170478
