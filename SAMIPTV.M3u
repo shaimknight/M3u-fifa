@@ -66,7 +66,6 @@ http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809363&ext
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809357&extension=ts
 #EXTINF:-1 group-title="Stalker Portal {GLOBAL}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Bein Sports MAX 6 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809359&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT" tvg-logo="" group-title="COPA MUNDIAL FIFA",DIRECTTV SPORT
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030716
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 1" tvg-logo="" group-title="COPA MUNDIAL FIFA",DIRECTTV SPORT 1
@@ -75,16 +74,12 @@ https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030717
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1178991
 #EXTINF:-1 tvg-id="" tvg-name="Hub - FIFA 2" tvg-logo="" group-title="COPA MUNDIAL FIFA",Hub - FIFA 2
 https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1178992
-
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SBS HD
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
-
-
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8
-
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",ASTRO WC
 http://w.nasvpn.xyz:8080/live/saya/saya/13896.m3u8
 #EXTINF:-1  tvg-name="WC 07" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="",SUPERSPORT
@@ -111,3 +106,5 @@ http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170478
 http://103.161.71.202:2096/channel/n105fb4d/index.m3u8?q=5b13d3e6ed1180693fa41d58c67fab67
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/QNqHSYCV/maxresdefault.jpg",Fifa World Cup 2022
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
+#EXTINF:-1, TSPORTS18HD
+http://15.1.1.10:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
